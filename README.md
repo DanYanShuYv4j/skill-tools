@@ -59,3 +59,16 @@ python skill-quality-evaluator/scripts/validate_skill.py <你的skill文件夹>
 产品小祥聊AI。干了六年研发，最近转做产品。写的是真实判断，不是使用教程。
 
 > 详细讲解见公众号文章《我装了一堆AI模板，后来全删了》
+
+
+## 新增：产品经理系列
+
+### prd-generator（写PRD）
+
+让 AI 帮你写 PRD，且**一步步追问、逼你想闭环**。核心：5 步对话（背景→用户故事→角色权限→功能需求→边界场景）+ 每条需求用 Given/When/Then 写验收条件 + AI 主动列异常清单。开发拿到能直接干活。
+
+```
+写PRD → AI 一步步追问 → 你确认 → 生成
+```
+
+详见 `prd-generator/SKILL.md`。出自《产品经理的AI技能》系列。
